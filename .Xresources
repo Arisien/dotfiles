@@ -1,12 +1,12 @@
-# Font
+! Font
 URxvt.font:		xft:JetBrainsMono Nerd Font:pixelsize=16
 
-# Colors
+! Colors
 URxvt*foreground:	White
 urxvt*depth:		32
 urxvt*background:	rgba:0000/0000/0000/9600
 
-# Other
+! Other
 URxvt.scrollBar:	false
 URxvt.internalBorder:   15
 
